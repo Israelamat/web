@@ -238,8 +238,8 @@ header .fa-bars {
 
 .about .row .image img {
 	height: 50vh;
-	width: 50vw;
-	margin-left:100px;
+	width: 40vw;
+	margin: left 80px;
 }
 
 .about .row .content {
@@ -295,7 +295,7 @@ header .fa-bars {
 	margin: 3.5rem 2rem;
 	text-align: center;
 	border-radius: 1rem;
-	
+    padding: 10px;
 }
 
 .course .box-container .box i {
