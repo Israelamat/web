@@ -224,8 +224,7 @@ header .fa-bars {
 }
 
 .about .title {
-	margin-bottom: 3rem;
-	
+	margin-bottom: 7rem;
 }
 
 .about .row {
@@ -240,6 +239,13 @@ header .fa-bars {
 	height: 50vh;
 	width: 40vw;
 	margin: left 80px;
+    padding-top: 0;
+    object-fit:cover;
+	border-radius:0%;
+	margin-top:-4rem;
+	border: .6rem solid #ff046f;
+	border-left: .6rem solid #c63bfa;
+	border-bottom: .6rem solid #c63bfa;
 }
 
 .about .row .content {
@@ -278,6 +284,7 @@ header .fa-bars {
 }
 
 
+
 .course .box-container {
 	width: 85%;
 	display:flex;
@@ -285,7 +292,7 @@ header .fa-bars {
 	margin: 0 auto;
 	padding: 4rem 0;
 	flex-wrap: wrap;
-	
+
 }
 
 .course .box-container .box {
@@ -372,6 +379,8 @@ header .fa-bars {
 
 .contact {
 	background:#161e4a;
+    align-items: center;
+
 }
 
 .contact .row {
@@ -395,7 +404,7 @@ header .fa-bars {
 	border-radius: 5rem;
 	padding: 0 1rem;
 	margin: 1rem 0;
-	color: #ff046f;
+	color: #000000;
 	font-size: 1.7rem;
 	transition: .2s linear;
 }
@@ -428,7 +437,7 @@ header .fa-bars {
 } 
 
 .footer {
-	text-align: center;
+	margin-left: 633px;
 }
 
 .footer .icons {
