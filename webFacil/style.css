@@ -156,14 +156,15 @@ header .fa-bars {
 }
 
 .product .box-container .box {
-	height:25rem;
-	width:25rem;
+	height:40rem;
+	width:40rem;
 	background:#161e4a;
 	text-align:center;
 	border-radius:1rem;
 	box-shadow:0 .3rem 5rem rgba(0,0,0,.5);
 	margin: 2rem;
 	cursor: pointer;
+	padding: 30px;
 }
 
 .product .box-container .box i {
@@ -179,6 +180,18 @@ header .fa-bars {
 	transition: .2s;
 }
 
+.product .box-container .box .precio{
+	font-size: 2em;
+	cursor: pointer;
+	transition: .2s;
+	color: #ff046f;
+	display: inline-block;
+}
+
+.product .box-container .box:hover .precio{
+	color:#c63bfa;
+}
+
 .product .box-container .box h3 {
 	font-size: 2rem;
 	color: #ff046f;
@@ -192,8 +205,12 @@ header .fa-bars {
 	
 }
 
-.product .box-container .box:hover i {
-	background:#ff046f;
+.product .box-container .box ul li {
+	margin: 6px;
+	text-decoration: none;
+	list-style: none;
+	color: #fff;
+	font-size: 1.3rem;
 }
 
 .product .box-container .box:hover h3 {
