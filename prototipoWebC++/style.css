@@ -1,0 +1,84 @@
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+  }
+  
+  nav {
+    display: flex;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    margin-right: 1em;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  #clientes {
+    border-top: 1px solid #ccc;
+    padding-top: 1em;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin-bottom: 1em;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 0.5em;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  #noticias {
+    border-top: 1px solid #ccc;
+    padding-top: 1em;
+  }
+  
+  #noticias li {
+    margin-bottom: 1em;
+  }
+  
+  #mercado {
+    border-top: 1px solid #ccc;
+    padding-top: 1em;
+  }
+  
+  #mercado img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+  
+  #mercado form {
+    margin-top: 1em;
+    text-align: center;
+  }
+  
+  #cajeros {
+    border-top: 1px solid #ccc;
+    padding-top: 1em;
+  }
+  
+  iframe {
+    border: none;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: 450px;
+  }
+  

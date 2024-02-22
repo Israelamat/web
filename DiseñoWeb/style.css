@@ -82,6 +82,16 @@ header .logo {
 	text-transform:uppercase
 }
 
+.logo {
+    display: flex;
+    align-items: left;
+}
+
+.logo-img {
+    width: 100px; 
+    margin-right: 1px; 
+}
+
 header .fa-bars {
 	font-size:3rem;
 	color:#ff046f;
