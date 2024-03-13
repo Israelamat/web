@@ -1,7 +1,7 @@
 # Diseño de Página Web Plana
 
 ## Descripción
-Este proyecto es una página web diseñada de manera sencilla y minimalista, sin funcionalidades específicas. El enfoque principal es destacar prácticas de diseño moderno y proporcionar una estructura limpia y atractiva para una web estática.
+Este proyecto es una página web diseñada de manera sencilla y minimalista, sin funcionalidades específicas. El enfoque principal es destacar prácticas de diseño moderno y proporcionar una estructura limpia y atractiva para una web estática. Desplegado en: https://web-liard-phi.vercel.app/
 
 ## Características
 
